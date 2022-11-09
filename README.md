@@ -1,0 +1,5 @@
+- # Sobre mim
+-   👋 Olá,meu nome é @Angeldaquebrada
+- meu email de contato é luninhas963@gmail.com
+-  👀 Eu estou interessada em aprender a programar novas linguagens.
+- 🌱 Eu estou apredendo a programar recentemente novas linguagens de JavaScript e Scratch
